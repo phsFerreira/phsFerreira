@@ -4,7 +4,7 @@
 
 ##### Studies/Work:
 
-- 👨‍🎓 I’m currently studying Analysis and Systems Development
+- 👨‍🎓 I’m currently studying **Analysis and Systems Development**
 - 🤓 Have some basic knowledge on C language, mySQL, PHP and HTML5
 - 📌 Searching to be a full-stack developer
 - 🔍 Starting to learn Java, JavaScript and get more into Oracle Database
