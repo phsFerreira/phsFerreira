@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi! I'm Pedro Ferreira! 👋😄
 
-<!--
-**phsFerreira/phsFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me:
 
-Here are some ideas to get you started:
+##### Studies/Work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I’m currently studying Analysis and Systems Development
+- 🤓 Have some basic knowledge on C language, mySQL, PHP and HTML5
+- 📌 Searching to be a full-stack developer
+- 🔍 Starting to learn Java, JavaScript and get more into Oracle Database
+- 🌱 Right now, I'm open to work, want to get experience and more knowledge
+
+##### What I like:
+
+- 🖥️ Front and Back-end development
+- 🎸 Music
+- ⌨️ Mechanical Keyboards
+- 🎮 Games
+
+##### Contact Me:
+
+  - You can send me an e-mail on contact.phsFerreira@gmail.com
